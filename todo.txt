@@ -1,0 +1,11 @@
+- Add functionality to enable/disable openvpn systemd services by clicking icon
+
+- Add ip and ping frequency to config 
+
+- Add installer?
+
+- Rewrite in better programming language
+
+- Add some text to indicate which vpn you are connecting to
+
+- Add option to have several vpns to connect to (depends on ^)
