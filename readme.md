@@ -25,11 +25,8 @@ If you already have the files, confirm they are in: `~/.local/share/gnome-shell/
 
 If you see an error or the extension doesn’t appear, try restarting GNOME Shell or logging out/in, then run the enable command again.
 
-3. **Restart GNOME Shell** if needed:
-- On **X11**: Press `Alt + F2`, type `r`, then press Enter.
-- On **Wayland**: Log out and log back in.
-
-You should now see a green or red circle icon in the top bar. The color will change based on the ping result.
+3. **Restart GNOME Shell**:
+Restart gnome-shell however you see fit. I suggest just logging in and out.
 
 
 
